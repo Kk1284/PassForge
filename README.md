@@ -1,8 +1,8 @@
-# Password Generator
+# PassForge
 
 ## Overview
 
-The Password Generator is a web application built using React that helps users generate strong and secure passwords. It provides a user-friendly interface where users can customize their password requirements and instantly generate passwords that meet their criteria.
+The PassForge is a web application built using React that helps users generate strong and secure passwords. It provides a user-friendly interface where users can customize their password requirements and instantly generate passwords that meet their criteria.
 
 ## Features
 
