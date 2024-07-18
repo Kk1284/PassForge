@@ -22,7 +22,7 @@ The PassForge is a web application built using React that helps users generate s
 
 To run the Password Generator locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Kk1284/PassForge
 
 2. Navigate into the project directory: cd password-generator
 
